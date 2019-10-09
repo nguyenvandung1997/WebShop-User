@@ -1,0 +1,52 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@nguyenvandung1997 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+1
+00nguyenvandung1997/WebShop-User
+ Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
+WebShop-User/User
+@nguyenvandung1997 nguyenvandung1997 Create User
+e90091e 6 minutes ago
+32 lines (31 sloc)  391 Bytes
+  
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
